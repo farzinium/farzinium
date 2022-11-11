@@ -1,0 +1,4 @@
+- Hello, I’m @farzinium
+- I'm a computer engineering student at SB university in Tehran, Iran.
+- I know a few programming languages like C, C++, Java and python.
+- currently I'm studing shell scripting and Telegrambot api.
